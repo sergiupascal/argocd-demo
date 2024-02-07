@@ -2,7 +2,7 @@ replicaCount: 3
 
 image:
   repository: "us-central1-docker.pkg.dev/terraform-project-sergiupascal/artemis/artemis"
-  tag: "10.0.0"
+  tag: "9.0.0"
 
 service:
   type: ClusterIP
